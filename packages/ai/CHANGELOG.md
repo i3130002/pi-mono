@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added built-in GLM-5.1, GLM-5-Code, GLM-4.5-X, GLM-4.5-AirX, and GLM-4-32B-0414-128K model support via z.ai provider catalog
+
 ## [0.65.0] - 2026-04-03
 
 ### Added
