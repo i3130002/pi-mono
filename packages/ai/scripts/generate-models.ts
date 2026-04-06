@@ -714,7 +714,6 @@ async function generateModels() {
 			candidate.cost.output = 1.9;
 			candidate.cost.cacheRead = 0.119;
 		}
-
 	}
 
 
